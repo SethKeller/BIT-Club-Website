@@ -1,10 +1,10 @@
 # OC BIT Website
-Where OC memes can be shared with the world. Especially Harbart.
+Where BIT club information, resources, and OC memes can be shared with the world. Especially Harbart.
 
 ## Getting started
 1. Install [git](https://git-scm.com/downloads)
 2. Open your command prompt or terminal
-3. Download this repository by running the below command
+3. Download this repository by running the following command:
     `git clone https://github.com/SethKeller/BIT-Club-Website.git`
 4. Navigate to the html directory `cd BIT-Club-Website/source`
 5. Start the website (it is only visible from **your** computer)
@@ -26,9 +26,10 @@ Follow [these instructions](https://kbroman.org/github_tutorial/pages/first_time
 
 Learn more about how to use the tool [here](https://kbroman.org/github_tutorial/pages/routine.html).
 
+You can also use this [helpful git cheatsheet](http://files.zeroturnaround.com/pdf/zt_git_cheat_sheet.pdf).
+
 ## Contributing
 Any OC student is able to contribute!
 1. Open a pull request with your work
 2. An officer will review the changes
 3. Once it's approved and merged, you can see your changes at http://bit.oc.edu.
-
